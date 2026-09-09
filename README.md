@@ -1,17 +1,16 @@
-# Block Grid â€“ Privacy Policy
+# Block Grid – Privacy Policy
 
 Public Privacy Policy for the **Block Grid** Android app (`com.blockgrid.game`), hosted for Google Play Store listing requirements.
 
 ## Live URL
 
-After GitHub Pages is enabled:
-
 **https://sqhammad.github.io/blockgrid-privacy-policy/**
 
 ## Contents
 
-- `index.html` â€” full privacy policy page
+- `index.html` — full privacy policy page
 
-## Contact
+## Developer
 
-hammad@drivatic.com
+Hammad Siddiqui  
+sqhammad012@gmail.com
